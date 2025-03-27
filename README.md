@@ -83,6 +83,8 @@ cd Backend
 <br>
 npx prisma migrate dev  # Migrate database schema
 
+video link:https://drive.google.com/file/d/12mtZX0TOF3PIs-GkJwWRw4iwyZPgfaV-/view?usp=drivesdk
+
 
 
 
